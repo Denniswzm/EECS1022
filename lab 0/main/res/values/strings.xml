@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zero</string>
+    <string name="s0">ZERO</string>
+    <string name="S1">ONE</string>
+    <string name="s2">TWO</string>
+    <string name="s3">THREE</string>
+    <string name="s4">Four</string>
+    <string name="s5">Five</string>
+    <string name="s6">Six</string>
+    <string name="s7">SEVEN</string>
+    <string name="s8">Eight</string>
+</resources>
